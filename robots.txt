@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://neelybr.github.io/msm-technologies-site/sitemap.xml

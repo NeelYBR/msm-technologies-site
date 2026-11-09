@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="256" height="256" role="img" aria-label="MSM Technologies">
+<defs><linearGradient id="kg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0B1F3A"/><stop offset="1" stop-color="#1D4ED8"/></linearGradient><linearGradient id="ks" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#BFD3FF"/></linearGradient></defs>
+<rect width="64" height="64" rx="15" fill="url(#kg)"/>
+<path d="M0 15A15 15 0 0 1 15 0h34a15 15 0 0 1 15 15v6C46 13 22 12 0 25z" fill="#ffffff" fill-opacity=".06"/>
+<path d="M15 46V20l17 18 17-18v26" fill="none" stroke="url(#ks)" stroke-width="6.4" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="32" cy="38" r="5.6" fill="#22D3B4" stroke="#0E2A5E" stroke-width="2.4"/>
+<circle cx="15" cy="20" r="3" fill="#22D3B4"/><circle cx="49" cy="20" r="3" fill="#22D3B4"/>
+</svg>
